@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Logesh0107
-- 👀 I’m interested in football/ any sport
-- 🌱 I’m currently learning 1st year cyber security @amrita vishwa vidhyapeetham,coimbatore
-- 📫 How to reach me Instagram- @logesh.05
+- 👀 I’m interested in field of Cyber Security and Front end developement
+- 🌱 I’m currently learning 2nd year cyber security @amrita vishwa vidhyapeetham,coimbatore
+- 📫 How to reach me Instagram- @logesh01_07
 - phone- 9698557174
 - whatsaspp ^same no.
 
