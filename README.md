@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logesh0107
 - 👀 I’m interested in field of Cyber Security and Front end developement
-- 🌱 I’m currently learning 3rd year cyber security @amrita vishwa vidhyapeetham,coimbatore
+- 🌱 I’m currently learning 4th year cyber security @amrita vishwa vidhyapeetham,coimbatore
 
 
 <!---
